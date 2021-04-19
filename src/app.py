@@ -20,6 +20,6 @@ def load_data():
 
 if __name__ == '__main__':
     ds = load_data()
-    # fs.chi2_ranking(dataset)
+    # fs.chi2_ranking(ds)
     # fs.multicollinearity(ds)
     knn.create_model(ds)
