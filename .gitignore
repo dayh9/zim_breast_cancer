@@ -1,1 +1,3 @@
 venv-zim/
+src/__pycache__/
+.idea/
